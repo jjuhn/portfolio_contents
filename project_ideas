@@ -8,5 +8,12 @@
     - Practical MCMC in R.
         - JAGS(DAGS)
         - Decisions: how many chains?, starting point?, converged?, transient?, which iterates to use?, how many iterates do we need?
+            - run several independent chains from different sparse starting points(3 to 5 chains)
+            - overdispersed starting point is much better: multiple modes detection is easier, so as convergence diagnostics 
+            - in hierarchical model, only the top level hyperparameter should be initialized
+            - automatic tuning: **Adaptation**, use the tuning but discard the initial run 
+            - convergence: the good chain = posterior is the limiting distribution
+            
+      
         
         
