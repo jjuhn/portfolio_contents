@@ -4,3 +4,9 @@
     - MCMC explanation
         - Gibbs Sampling
         - Metropolis algorithms (simplify with example) 
+        - Metropolis Hastings
+    - Practical MCMC in R.
+        - JAGS(DAGS)
+        - Decisions: how many chains?, starting point?, converged?, transient?, which iterates to use?, how many iterates do we need?
+        
+        
