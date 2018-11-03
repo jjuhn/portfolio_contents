@@ -1,7 +1,9 @@
 1. https://www.quora.com/What-are-some-artificial-neural-network-project-ideas-for-undergraduates 
 2. Bayesian modeling tutorial?
     - Dependent vs Independent sampling
-    
+        - independent sampling: limited to special cases, effective only in low dimensions, require special tailoring for efficiency(time consuming)
+        - dependent sampling: wider variety of simulation methods, complex, high dimensional but requires more samples for a given accuracy
+        
     - Markov chain explanation(what is the purpose? where it is used?
     - MCMC explanation
         - Gibbs Sampling
