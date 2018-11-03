@@ -17,7 +17,10 @@
             - in hierarchical model, only the top level hyperparameter should be initialized
             - automatic tuning: **Adaptation**, use the tuning but discard the initial run 
             - convergence: the good chain = posterior is the limiting distribution
-            
+3. Check out datastudio by google for visualization project 
+    - what to visualize? maybe some sort of data science related algorithms. apriori?
+4. 
+
       
         
         
