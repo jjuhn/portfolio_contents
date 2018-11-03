@@ -1,6 +1,8 @@
 1. https://www.quora.com/What-are-some-artificial-neural-network-project-ideas-for-undergraduates 
 2. Bayesian modeling tutorial?
-    - Markov chain explanation(what is the purpose? where it is used?)
+    - Dependent vs Independent sampling
+    
+    - Markov chain explanation(what is the purpose? where it is used?
     - MCMC explanation
         - Gibbs Sampling
         - Metropolis algorithms (simplify with example) 
