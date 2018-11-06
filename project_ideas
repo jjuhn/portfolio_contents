@@ -26,6 +26,13 @@
 5. Linear Regression using R in MCMC approach. 
 6. What is the difference? Which is better? 
 7. About Kaggle Competition: 
+     - Algorithms that are often used 
+        - XGBoost
+        - LightGBM
+        - Catboost
+        - StackNet
+     - HOW TO WIN IN KAGGLE:  https://www.coursera.org/learn/competitive-data-science/  
+     - PyCon Korea:  https://www.slideshare.net/yeonminkim/pycon-korea-2018-kaggle-tutorialkaggle-break 
 8. List of possible interview questions
 9. Personal Diary about my gap year: study, things I did, parenting etc.
 
