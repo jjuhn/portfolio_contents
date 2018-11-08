@@ -3,6 +3,9 @@
     - https://github.com/zzsza/Deep_Learning_starting_with_the_latest_papers
     
 2. Bayesian modeling tutorial?
+    - make one in python and one for R. 
+        - python: https://twiecki.github.io/blog/2015/11/10/mcmc-sampling/
+        - R: I know how to do it. hubble telescope data. 
     - Dependent vs Independent sampling
         - independent sampling: limited to special cases, effective only in low dimensions, require special tailoring for efficiency(time consuming)
         - dependent sampling: wider variety of simulation methods, complex, high dimensional but requires more samples for a given accuracy
@@ -40,7 +43,7 @@
 11. Fix the current portfolio website
     - R markdown/ ipython notebook incorporation
 12. Prioritize this list 
-
+13. 
 
 
 
