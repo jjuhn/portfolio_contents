@@ -49,7 +49,9 @@
 14. Everybody lies : book review and learn about the big data 
 15. Automated Vehicle research
 16. movie recommendation: 
-
+    - instead of using the curated movie db, try and get sentimental analysis on twitter, imdb, reddit.
+    - take user input such as age, gender, occupation( use user cached data? or user cookies to figure out?).  Need solution for the fresh start user problem on the recommender system. 
+    
 
 
 
