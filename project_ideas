@@ -23,7 +23,6 @@
             - run several independent chains from different sparse starting points(3 to 5 chains)
             - overdispersed starting point is much better: multiple modes detection is easier, so as convergence diagnostics
             - in hierarchical model, only the top level hyperparameter should be initialized. starting values that are too extreme may cause software to crash
-            
             - automatic tuning: **Adaptation**, use the tuning but discard the initial run 
             - convergence: the good chain = posterior is the limiting distribution
 3. Check out datastudio by google for visualization project 
