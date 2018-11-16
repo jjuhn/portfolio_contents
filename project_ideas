@@ -8,6 +8,7 @@
         - independent sampling: limited to special cases, effective only in low dimensions, require special tailoring for efficiency(time consuming)
         - dependent sampling: wider variety of simulation methods, complex, high dimensional but requires more samples for a given accuracy
         - The Monte Carlo standard error (SE) formula for independent sampling is NOT appropriate for simulation methods based on dependent sampling.
+        - A sequence of independent random variables CAN be called a Markov chain
         
     - Markov chain explanation(what is the purpose? where it is used?
     - MCMC explanation
