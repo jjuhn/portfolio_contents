@@ -56,13 +56,16 @@
 17. Data mining: Paradigmatic vs Syntagmatic relationship.  
     - Paradigmatic: replaceable words, high context similarities. cat and dog vs cat and computer
     - Syntagmatic: put verb in between and see. Correlated occurence. They can be combined with each other to convey meaning 
-    - EOWC: Expected Overlap of Words in Context
+    - EOWC: Expected Overlap of Words in Context in Paradigmatic relationship.
         - Two problems
             - It favors matching one frequent term very well over matching more distinct terms
             - It treats every word equally
         - Solutions
             - Use Term Frequencies instead of Count. 
             - Use IDF to differentiate stop words from rare words. 
+        - BM25 Example
+    - Entropy: Measure of Randomness. 
+    
      
    
 
