@@ -55,8 +55,9 @@
     - take user input such as age, gender, occupation( use user cached data? or user cookies to figure out?).  Need solution for the fresh start user problem on the recommender system. 
 17. Data mining: Paradigmatic vs Syntagmatic relationship.  
     - Paradigmatic: replaceable words, high context similarities. cat and dog vs cat and computer
-    - Syntagmatic: put verb in between and see. Correlated occurence
+    - Syntagmatic: put verb in between and see. Correlated occurence. They can be combined with each other to convey meaning 
     
+   
 
 
 
