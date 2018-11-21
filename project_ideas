@@ -60,6 +60,9 @@
         - Two problems
             - It favors matching one frequent term very well over matching more distinct terms
             - It treats every word equally
+        - Solutions
+            - Use Term Frequencies instead of Count. 
+            - Use IDF to differentiate stop words from rare words. 
      
    
 
