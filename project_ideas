@@ -66,6 +66,8 @@
         - BM25 Example
     - Entropy: Measure of Randomness. H(x) 
         - higher the more random.
+        - Conditional Entropy: H(x|y) should be less random than H(x) if it is same as H(x) then x and y are independent
+        
     - Information Theory: mutual information I(X;Y) 
         
     
