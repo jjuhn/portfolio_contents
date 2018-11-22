@@ -66,6 +66,7 @@
         - BM25 Example
     - Entropy: Measure of Randomness. H(x) 
         - higher the more random.
+    - Information Theory: mutual information I(X;Y) 
         
     
      
