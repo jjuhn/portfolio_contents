@@ -64,7 +64,9 @@
             - Use Term Frequencies instead of Count. 
             - Use IDF to differentiate stop words from rare words. 
         - BM25 Example
-    - Entropy: Measure of Randomness. 
+    - Entropy: Measure of Randomness. H(x) 
+        - higher the more random.
+        
     
      
    
