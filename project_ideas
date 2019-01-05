@@ -70,6 +70,9 @@
         - Can't be universally(?) comparable.  You can compare some conditional entropies but not all. hence use I(x;y) instead
         
     - Information Theory: mutual information I(X;Y) 
+18. Guide line of hiring data scientist. reverse engineer it. 
+    - https://www.kdnuggets.com/2018/02/guide-hiring-data-scientists.html  
+
         
     
      
